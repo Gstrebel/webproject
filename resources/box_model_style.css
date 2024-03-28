@@ -1,0 +1,63 @@
+/*
+  white: #FFFFFF
+  accent 1 dark blue: #0B2D39
+  accent 2 lighter blue: #1E7898
+*/
+
+h1, h2, h3 {
+    color: #0B2D39;
+}
+
+h1 {
+    text-align: center;
+}
+
+th, td {
+    border: #1E7898 groove 3px;
+    padding: 8px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: #0B2D39;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #1E7898
+}
+
+p.content {
+    background-color: #0B2D39;
+    color: #FFFFFF;
+    width: 500px;
+    padding: 20px;
+    border-style: dotted;
+    border-color: #1E7898;
+    margin: 50px;
+    text-align: center;
+}
+
+
+div {
+    background-color: #0B2D39;
+    width: 646px;
+    padding: 20px;
+    border-style: double;
+    border-width: 8px;
+    border-color: #1E7898;
+    text-align: center;
+}
+
+body {
+    padding: 20px;
+    font-size: 18px;
+}
+
+
